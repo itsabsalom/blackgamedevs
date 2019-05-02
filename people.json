@@ -85,6 +85,59 @@
          ]
       ]
    },
+     {
+      "name": "Absalom Alila",
+      "image": "http://image-link-here.com/image.png",
+      "skills": [
+         "game design",
+         "programming",
+         "production",
+         "public relations",
+         "game audio",
+         "marketing",
+         "game art"
+      ],
+      "location": "KENYA",
+      "websites": {
+         "personal": [
+
+            [
+               "Twitter",
+               "https://twitter.com/username-here"
+            ],
+            [
+               "Facebook",
+               "https://facebook.com/username-here"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/absa_lom_alila/"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/channel/UCIYJM-3r9p2eJ185_xA7t9w?view_as=subscriber"
+            ],
+
+         "business": [
+
+            [
+               "Twitter",
+               "https://twitter.com/DevsKenya"
+            ],
+            [
+               "Facebook",
+               "https://www.facebook.com/Game-Devs-Kenya-1193404420835294/"
+            ],
+            [
+               "Instagram",
+               "https://www.instagram.com/gamedevs_/"
+            ],
+            [
+               "Youtube",
+               "https://www.youtube.com/channel/UCjdXRZfG6jalBNfRoWBfAPw"
+            ]
+         ]
+      },
    {
       "name": "Sean Heron",
       "skills": [
